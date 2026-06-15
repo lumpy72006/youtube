@@ -196,5 +196,39 @@
       "title": "Skip reencoding",
       "description": "Skip reencoding downloaded videos, keeping original quality at the expense of increased final ZIM size and potential codec issues."
     }
-  }
+  },
+  "zimMetadata": [
+    {
+      "metadata": "Name",
+      "flag": "name"
+    },
+    {
+      "metadata": "Title",
+      "flag": "title"
+    },
+    {
+      "metadata": "Description",
+      "flag": "description"
+    },
+    {
+      "metadata": "LongDescription",
+      "flag": "long_description"
+    },
+    {
+      "metadata": "Creator",
+      "flag": "creator"
+    },
+    {
+      "metadata": "Publisher",
+      "flag": "publisher"
+    },
+    {
+      "metadata": "Language",
+      "flag": "language"
+    },
+    {
+      "metadata": "Illustration",
+      "flag": "profile"
+    }
+  ]
 }
